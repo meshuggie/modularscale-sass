@@ -1,6 +1,6 @@
 {
   "name": "modularscale-sass-npm",
-  "version": "2.1.4",
+  "version": "2.1.5",
   "description": "A tool to help web designers size their type in a more meaningful way.",
   "main": "index.js",
   "scripts": {
