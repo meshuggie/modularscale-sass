@@ -4,11 +4,6 @@ This is a fork from the main [modularscale-sass package](https://github.com/modu
 
 ## Use
 
-### Gulp (without Eyeglass)
-* Terminal: `npm install modularscale-sass --save-dev`
-* gulpfile.js: pipe in `require("modularscale-sass").includePaths` to your gulp-sass options.
-* SCSS: `@import 'modular-scale'`
-
 ### Compass
 
 * Terminal: `gem install modular-scale`
@@ -18,6 +13,11 @@ This is a fork from the main [modularscale-sass package](https://github.com/modu
 ### Eyeglass
 
 * Terminal: `npm install modularscale-sass --save-dev`
+* SCSS: `@import 'modular-scale'`
+
+### Gulp (without Eyeglass)
+* Terminal: `npm install modularscale-sass --save-dev`
+* gulpfile.js: pipe in `require("modularscale-sass").includePaths` to your gulp-sass options.
 * SCSS: `@import 'modular-scale'`
 
 ### Webpack with sass-loader
@@ -39,6 +39,8 @@ This is a fork from the main [modularscale-sass package](https://github.com/modu
 
 
 ### License
+
+Copyright for portions of project modularscale-sass-npm are held by [Scott Kellum](http://www.scottkellum.com/) ([@scottkellum](http://twitter.com/scottkellum)), [Adam Stacoviak](http://adamstacoviak.com/) ([@adamstac](http://twitter.com/adamstac)) and [Mason Wendell](http://thecodingdesigner.com/) ([@codingdesigner](http://twitter.com/codingdesigner)), 2016 as part of project modularscale-sass. All other copyright for project modularscale-sass-npm are held by Joshua Harris, 2017.
 
 The MIT License (MIT)
 
