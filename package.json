@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/modularscale/modularscale-sass.git"
+    "url": "https://github.com/meshuggie/modularscale-sass.git"
   },
   "keywords": [
     "sass",
@@ -22,10 +22,7 @@
     "eyeglass-module",
     "modular-scale"
   ],
-  "author": "",
+  "author": "Scott Kellum, Adam Stacoviak, and Mason Wendell. Modifications by Joshua Harris.",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/modularscale/modularscale-sass/issues"
-  },
-  "homepage": "https://github.com/modularscale/modularscale-sass"
+  "homepage": "https://github.com/meshuggie/modularscale-sass"
 }
