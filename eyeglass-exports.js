@@ -1,7 +1,7 @@
-var path = require('path');
+var modularscaleSass = require('./index');
 
 module.exports = function(eyeglass, sass) {
   return {
-    sassDir: path.join(__dirname, 'stylesheets')
-  }
-}
+    sassDir: modularscaleSass.includePaths[0]
+  };
+};
